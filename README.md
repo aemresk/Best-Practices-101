@@ -6,15 +6,16 @@ Her örnek; neyin yanlış olduğunu, neden yanlış olduğunu ve doğru yaklaş
 
 ## İçerik
 
-| Konu | Klasör |
-|------|--------|
-| Entity Framework Core | [EF/](EF/) |
+| Konu | Klasör | Örnek Sayısı |
+|------|--------|:---:|
+| Entity Framework Core | [EF/](EF/) | 10 |
+| SOLID Prensipleri | [SOLID/](SOLID/) | 10 |
 
 ## Teknoloji
 
-- .NET 8
+- .NET 9
 - Minimal API
-- SQLite (kurulum gerektirmez)
+- SQLite (EF serisi), In-memory (SOLID serisi)
 
 ## Nasıl Çalıştırılır
 
