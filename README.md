@@ -10,12 +10,14 @@ Her örnek; neyin yanlış olduğunu, neden yanlış olduğunu ve doğru yaklaş
 |------|--------|:---:|
 | Entity Framework Core | [EF/](EF/) | 10 |
 | SOLID Prensipleri | [SOLID/](SOLID/) | 10 |
+| Testing Best Practices | [Testing/](Testing/) | 2 |
 
 ## Teknoloji
 
 - .NET 9
 - Minimal API
 - SQLite (EF serisi), In-memory (SOLID serisi)
+- Console tabanlı before/after örnekleri
 
 ## Nasıl Çalıştırılır
 
